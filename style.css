@@ -1,0 +1,58 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&display=swap');
+.hero{
+   background-image:url(neom-yUcH008GS6A-unsplash.jpg)
+   ;
+   height: 700px;
+  background-position: bottom center;
+  background-size: cover;
+   
+}
+*{
+margin: 0;
+padding: 0;
+}
+.hero h1{
+    color: azure;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 350px;
+    font-weight: 20;
+    font-family: cursive;
+    word-spacing: 10px;
+}
+.article{
+    font-family: 'Rubik Doodle Shadow', system-ui;
+    width: 80%;
+    /*margin-right: auto;
+    margin-left: auto;
+    margin-top: 60px;
+    margin-bottom: 60px;*/
+    margin: 60px auto;
+    background-color: aqua;
+    padding: 20px;
+    border-style: groove;
+    border-color: red;
+    border-width:10px ;
+    text-align: justify;
+    
+}
+.article h3{
+    text-align: center;
+    font-size: 30px;
+    border-bottom: 5px;
+    border-color: red;
+    border-style:groove;
+    border-top: 0cap;
+    border-left: 0;
+    border-right: 0;
+    padding-bottom: 15px;
+    margin-bottom: 30px;
+}
+.article p{
+    font-size: 14px;
+    line-height: 2em;
+}
+.article p .imp{
+    font-size: 2em;
+}
