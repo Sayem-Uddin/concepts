@@ -6,6 +6,7 @@
    height: 700px;
   background-position: bottom center;
   background-size: cover;
+
    
 }
 *{
@@ -55,4 +56,25 @@ padding: 0;
 }
 .article p .imp{
     font-size: 2em;
+}
+.birds-pic{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: space-around;
+    background: linear-gradient(45deg,white,black);
+  
+    
+}
+.birds-pic div{
+  width: 300px;
+ 
+  
+}
+.birds-pic img{
+    width: 100%;
+}
+h3{
+    text-align: center;
+    margin-bottom: 20px;
 }
